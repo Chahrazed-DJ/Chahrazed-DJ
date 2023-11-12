@@ -6,7 +6,7 @@
 <h1>
    Hey There! I'am Chouchou 
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="50px" />
+    <img src="https://github.com/Chahrazed-DJ/Chahrazed-DJ/blob/main/profile%20intro.gif" width="50px" />
   </a>
 </h1>
 
