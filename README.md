@@ -3,31 +3,26 @@
 <img width="800px" height = "" src="My%20PP.gif" alt="coverPage"  border-radius= "50px"/>
 </div>
 
-<div align="center"> <h4>ABOUT ME </h4></div>
+<div align="center"> <h6> ABOUT ME </h6></div>
 <div size='50px' align="center">
-Chahrazed DJILLALI from algeria, a software engineering student and at the same time developer. 🧑‍🎓
-<br>
-I really enjoy learning languages and frameworks. 👊😃
-</div>
+Chahrazed DJILLALI, a skilled software engineer based in Algeria, holds both a bachelor's and a master's degree in computer science and software engineering.
+ </div>
+ <br>
  
-<h2 > A Few Quick Facts About Me 🌝 </h2>
+-
+  - `Demonstrating a keen interest in continuously expanding my knowledge`
+  - `I have expertise in multiple programming languages and frameworks`
+  - `Known for my self-confidence, quick learning aptitude, and a proactive approach to challenges`
+  -  `I find satisfaction in proving my capabilities through successfully executing projects`
+<div size='50px' align="center">
+<b>Fun fact : I ❤️ Drawing and playing Video Games</b>
+ </div>
+
+<h2 ></h2>
+<div align="center"><h6> 📫 HOW TO REACH ME </h6></div>
 
 <div align="center">
-<img  src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200" >
-</div>
-<div align="center">
-   🌱 I’m currently learning Mobile App Development
-   <br>
-   🧑‍🎓 Graduated with a computer science degree
-   <br>
-   👯 I’m looking to collaborate on new projects
-   <br>
-   💻 I love writing code and learn anything about it
-   <br>
-   📫 How to reach me: <a href="https://mail.google.com"> djchacha2000@gmail.com</a>
-   <br>
-   ⚡ Fun fact: I ❤️ Drawing and Video Games
-   <br>
+  <a href="https://mail.google.com"> djchacha2000@gmail.com</a>
 </div>
 
 <h2 > Languages and Tools 🖥️ </h2>
