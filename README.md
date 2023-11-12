@@ -1,15 +1,9 @@
 
 <div align="center">
-<img width="" height = "" src="Hi.gif" alt="coverPage" />
+<img width="800px" height = "" src="My%20PP.gif" alt="coverPage"  border-radius= "50px"/>
 </div>
 
-<h1>
-   Hey There! I'am Chouchou 
-  <a target="_blank">
-    <img src="https://github.com/Chahrazed-DJ/Chahrazed-DJ/blob/main/profile%20intro.gif" width="50px" />
-  </a>
-</h1>
-
+<div align="center"> <h4>ABOUT ME </h4></div>
 <div size='50px' align="center">
 Chahrazed DJILLALI from algeria, a software engineering student and at the same time developer. 🧑‍🎓
 <br>
