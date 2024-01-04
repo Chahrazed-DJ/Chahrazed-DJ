@@ -1,7 +1,4 @@
 
-<div align="center">
-<img width="800px" height = "" src="My%20PP.gif" alt="coverPage"  border-radius= "50px"/>
-</div>
 
 <div align="center"> <h6> ABOUT ME </h6></div>
 <div size='50px' align="center">
